@@ -249,7 +249,7 @@ MIP Editors enforce the administrative and editorial aspects of the overall MIPs
 * MIP Editors control phase 2 of the MIP lifecycle and can assign MIP numbers.
 * MIP Editors are admins on the [MIPs GitHub repository](https://github.com/makerdao/mips).
 * MIP Editors moderate the [MIPs category in the forum](https://forum.makerdao.com/c/mips/14).
-* MIP Editors are responsible for updating the status of MIPs, as described in `MIP0c4`, *The MIP Lifecycle*.
+* MIP Editors are responsible for updating the status of MIPs, as described in `MIP0c3`, *The MIP Lifecycle*.
 
 #### Governance Facilitator
 
